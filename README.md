@@ -27,12 +27,8 @@ Nosso projeto tem como objetivo transformar a infraestrutura de comunicação m�
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Buscamos otimizar a distribuição e ampliar a cobertura de rede, especialmente em áreas rurais e remotas, onde o acesso à comunicação é limitado. Através de parcerias estratégicas e inovações tecnológicas, pretendemos promover a inclusão digital, facilitar o acesso à informação e impulsionar o desenvolvimento socioeconômico do país. Com este projeto, visamos não apenas conectar pessoas, mas também criar oportunidades e fortalecer a cidadania digital em todo o Brasil.
+
 
 # Funcionalidades e Demonstração da Aplicação
 
