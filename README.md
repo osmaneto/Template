@@ -23,7 +23,7 @@ Nosso projeto tem como objetivo transformar a infraestrutura de comunicação m�
 * [Autores](#autores)
 
 # Equipe
-![Equipe](![Projeto Integrador gpi](https://github.com/user-attachments/assets/45eef117-aadc-48fa-b49b-fd9549a78ef1)
+(![Projeto Integrador gpi](https://github.com/user-attachments/assets/45eef117-aadc-48fa-b49b-fd9549a78ef1)
 )
 
 # Objetivo do Projeto
