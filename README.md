@@ -1,6 +1,6 @@
-# Projeto Template
+# Aprendizado por Projeto Integrado (API)
 
-Irei demonstrar como funciona e como montar um template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização correta da ferramenta GitHub. 
+Nosso projeto tem como objetivo transformar a infraestrutura de comunicação móvel no Brasil, garantindo que todos os cidadãos, independentemente de sua localização, tenham acesso a aparelhos de qualidade.
 
 # Badges
 
@@ -23,7 +23,7 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 * [Autores](#autores)
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+![Equipe]([https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true](https://fatecspgov.sharepoint.com/:p:/r/sites/PIGPII-Grupo2/Shared%20Documents/General/1%C2%BA%20Sprint%20-%20GPI....pptx?d=wa9462cec8fe0405d8946cba62443349e&csf=1&web=1&e=pnv6Az))
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
