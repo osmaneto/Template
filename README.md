@@ -59,7 +59,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
 - [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
+- [] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
