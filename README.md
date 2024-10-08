@@ -24,7 +24,7 @@ Nosso projeto tem como objetivo transformar a infraestrutura de comunicação m�
 
 # Equipe
 (![Projeto Integrador gpi](https://github.com/user-attachments/assets/45eef117-aadc-48fa-b49b-fd9549a78ef1)
-)
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
