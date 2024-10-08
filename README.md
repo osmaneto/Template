@@ -36,6 +36,8 @@ Buscamos otimizar a distribuição e ampliar a cobertura de rede, especialmente 
 # Funcionalidades e Demonstração da Aplicação
 Sprint 1 -
 Inicialmente, realizamos uma avaliação do conhecimento individual de cada integrante, seguida por uma dinâmica em grupo, com o intuito de identificar os pontos fortes e fracos de nossa equipe. Em sequência, elaboramos o Canvas da empresa e uma análise SWOT, que nos ajudaram a mapear as oportunidades e desafios que iriamos enfrentar. Essas ferramentas foram essenciais para orientarmos as decisões estratégicas e definirmos o melhor caminho a ser seguido
+
+
 (https://fatecspgov.sharepoint.com/:p:/r/sites/PIGPII-Grupo2/Shared%20Documents/General/1%C2%BA%20Sprint%20-%20GPI....pptx?d=wa9462cec8fe0405d8946cba62443349e&csf=1&web=1&e=Pj3TNJ****)
 
 
@@ -43,6 +45,9 @@ Inicialmente, realizamos uma avaliação do conhecimento individual de cada inte
   - GitHub
   - Power Point
   - Excel
+  - Word
+  - Canva
+  - Sebrae Canvas
  
 
 # Plano de Entregas
