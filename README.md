@@ -29,20 +29,20 @@ Nosso projeto tem como objetivo transformar a infraestrutura de comunicação m�
 # Objetivo do Projeto
 Buscamos otimizar a distribuição e ampliar a cobertura de rede, especialmente em áreas rurais e remotas, onde o acesso à comunicação é limitado. Através de parcerias estratégicas e inovações tecnológicas, pretendemos promover a inclusão digital, facilitar o acesso à informação e impulsionar o desenvolvimento socioeconômico do país. Com este projeto, visamos não apenas conectar pessoas, mas também criar oportunidades e fortalecer a cidadania digital em todo o Brasil.
 
+- Realizar uma análise SWOT 
+- Realizar um modelo de negócios com CANVAS
+- Realizar uma pesquisa inicial do mercado
 
 # Funcionalidades e Demonstração da Aplicação
 
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+Sprint 1 - (https://fatecspgov.sharepoint.com/:p:/r/sites/PIGPII-Grupo2/Shared%20Documents/General/1%C2%BA%20Sprint%20-%20GPI....pptx?d=wa9462cec8fe0405d8946cba62443349e&csf=1&web=1&e=Pj3TNJ****)
 
 
 ## Tecnologias Utilizadas
   - GitHub
   - Power Point
   - Excel
-  - Planner
-  - Power BI
+ 
 
 # Plano de Entregas
 
