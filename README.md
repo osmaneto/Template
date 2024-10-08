@@ -53,7 +53,7 @@ Inicialmente, realizamos uma avaliação do conhecimento individual de cada inte
 # Plano de Entregas
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma do Projeto[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
@@ -65,7 +65,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
+- [ ] Criação da apresentação
 - [ ] Finalize e aprovação.
 
 
