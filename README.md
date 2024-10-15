@@ -58,23 +58,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Cronograma do Projeto[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 ## Sprint 1. Desenvolvimento
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação da apresentação
-- [ ] Finalize e aprovação.
+- [x] Execução da atividade de conhecimentos prévios individualmente e em grupo;
+- [x] Análise dos pontos fortes e fracos da equipe;
+- [x] Esboçar o Análise SWOT; 
+- [x] Executar um Canvas da empresa;
+- [x] Completar a planilha de pesquisa de mercado;
+- [x] Criar um PP com todas as atividades anteriores; 
+- [x] Finalização e Apresentação para o Cliente.
 
 
-## Sprint 2. Divulgação
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 2.
+- [ ] Ajuste do Canvas 
+- [ ] Sistema de ERP através do Excel
 
 
 # Disciplinas relacionadas
@@ -82,7 +77,7 @@ Aqui estão as disciplinas utilizadas e desenvolvidas para a realização desse 
 <details>
 <summary>Disciplinas utilizadas</summary>
  
-- Processos de Produção
+- Informática
   - breve resumo na relação da disciplina com o trabalho
 - Gestão de Pessoas
   - breve resumo na relação da disciplina com o trabalho
@@ -103,7 +98,7 @@ Aqui estão as disciplinas utilizadas e desenvolvidas para a realização desse 
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
@@ -118,12 +113,12 @@ Aqui estão as disciplinas utilizadas e desenvolvidas para a realização desse 
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★|
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 
 </details>
 
