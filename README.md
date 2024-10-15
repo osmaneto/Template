@@ -139,4 +139,5 @@ Essas foram as referências utilizadas para realizar este projeto
 [Api 6°sem-GPI-2023/1](https://github.com/francinelemes1504/API-6-Semestre-2023)
 
 # Autores
-Andre Antunes | [Perfil](https://www.linkedin.com/in/andre-antunes-1876b41b0/)
+Osmã Davino Neto| [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/)
+Camila Cardoso Moraes (https://www.linkedin.com/in/camila-moraes-57a502160/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
