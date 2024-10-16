@@ -134,8 +134,8 @@ Essas foram as referências utilizadas para realizar este projeto
 [Api 6°sem-GPI-2023/1](https://github.com/francinelemes1504/API-6-Semestre-2023)
 
 # Autores
-Osmã Neto|          [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/)
+Osmã Neto |          [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/)
 
-Camila Moraes|      [Perfil](https://www.linkedin.com/in/camila-moraes-57a502160/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Camila Moraes |      [Perfil](https://www.linkedin.com/in/camila-moraes-57a502160/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-Rafael Farias       [Perfil](https://www.linkedin.com/in/rafael-gon%C3%A7alves-520368184/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Rafael Farias |       [Perfil](https://www.linkedin.com/in/rafael-gon%C3%A7alves-520368184/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
