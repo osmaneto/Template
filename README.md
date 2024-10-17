@@ -129,8 +129,8 @@ Essas foram as referências utilizadas para realizar este projeto
 [Gerenciar Arquivos](https://docs.github.com/pt/repositories/working-with-files/managing-files) /
 [Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) /
 [Configuração Git](https://docs.github.com/pt/get-started/quickstart/set-up-git) /
-[Guilherme Tavares](https://github.com/guiftavares/PorfolioBancoDeDados) /
-[Api 6°sem-GPI-2023/1](https://github.com/larissagss15/API6S_01) /
+[André luiz ](https://github.com/AndreLuizRibeiro)) /
+[Template](https://github.com/AndreLuizRibeiro/Template)) /
 [Api 6°sem-GPI-2023/1](https://github.com/francinelemes1504/API-6-Semestre-2023)
 
 # Autores
