@@ -130,7 +130,7 @@ Essas foram as referências utilizadas para realizar este projeto
 [Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) /
 [Configuração Git](https://docs.github.com/pt/get-started/quickstart/set-up-git) /
 [André luiz ](https://github.com/AndreLuizRibeiro)/
-[Template](https://github.com/AndreLuizRibeiro/Template) /
+[Template](https://github.com/AndreLuizRibeiro/Template) 
 
 
 # Autores
