@@ -134,7 +134,7 @@ Essas foram as referências utilizadas para realizar este projeto
 
 
 # Autores
-Osmã Neto |          [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/)
+Osmã Neto |          [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/)/
                      [GitHub](https://github.com/osmaneto)
 
 
