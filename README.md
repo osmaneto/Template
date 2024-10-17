@@ -99,11 +99,11 @@ Aqui estão as disciplinas utilizadas e desenvolvidas para a realização desse 
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -114,11 +114,11 @@ Aqui estão as disciplinas utilizadas e desenvolvidas para a realização desse 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★|
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
