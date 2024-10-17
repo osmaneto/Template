@@ -134,8 +134,8 @@ Essas foram as referências utilizadas para realizar este projeto
 
 
 # Autores
-Osmã Neto |          [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/)/
-                     [GitHub](https://github.com/osmaneto)
+Osmã Neto |          [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/) |
+                      [GitHub](https://github.com/osmaneto)
 
 
 Camila Moraes |      [Perfil](https://www.linkedin.com/in/camila-moraes-57a502160/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
