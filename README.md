@@ -134,12 +134,14 @@ Essas foram as referências utilizadas para realizar este projeto
 
 
 # Autores
-Osmã Neto |          [Perfil](https://www.linkedin.com/in/osm%C3%A3-neto/) |
-                      [GitHub](https://github.com/osmaneto)
-
-
-Camila Moraes |      [Perfil](https://www.linkedin.com/in/camila-moraes-57a502160/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-Rafael Farias |       [Perfil](https://www.linkedin.com/in/rafael-gon%C3%A7alves-520368184/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+| Função | Nome |  LinkedIn & GitHub |
+| - | - | - |
+|Product Owner| Camila Moraes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| Osmã Neto | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Rafael Farias | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Robson Custódio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Julia Araujo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Larissa Estevam | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+rafael-gon%C3%A7alves-520368184/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
