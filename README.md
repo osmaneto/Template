@@ -23,15 +23,13 @@ Nosso projeto tem como objetivo transformar a infraestrutura de comunicação m�
 * [Autores](#autores)
 
 # Equipe
-![Projeto Integrador gpi](https://github.com/user-attachments/assets/45eef117-aadc-48fa-b49b-fd9549a78ef1)
+![Projeto Integrador gpi](https://github.com/user-attachments/assets/559aa734-13a8-41b9-a449-00b5b382aa32)
 
 
 # Objetivo do Projeto
 Buscamos otimizar a distribuição e ampliar a cobertura de rede, especialmente em áreas rurais e remotas, onde o acesso à comunicação é limitado. Através de parcerias estratégicas e inovações tecnológicas, pretendemos promover a inclusão digital, facilitar o acesso à informação e impulsionar o desenvolvimento socioeconômico do país. Com este projeto, visamos não apenas conectar pessoas, mas também criar oportunidades e fortalecer a cidadania digital em todo o Brasil.
 
-- Realizar uma análise SWOT 
-- Realizar um modelo de negócios com CANVAS
-- Realizar uma pesquisa inicial do mercado
+
 
 # Funcionalidades e Demonstração da Aplicação
 Sprint 1 -
@@ -56,7 +54,7 @@ Inicialmente, realizamos uma avaliação do conhecimento individual de cada inte
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma do Projeto[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/osmaneto/projects/6)
 
 ## Sprint 1. Desenvolvimento
 - [x] Execução da atividade de conhecimentos prévios individualmente e em grupo;
@@ -131,7 +129,7 @@ Essas foram as referências utilizadas para realizar este projeto
 [Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) /
 [Configuração Git](https://docs.github.com/pt/get-started/quickstart/set-up-git) /
 [André luiz ](https://github.com/AndreLuizRibeiro)/
-[Template](https://github.com/AndreLuizRibeiro/Template) 
+
 
 
 # Autores
